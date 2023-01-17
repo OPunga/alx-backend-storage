@@ -1,5 +1,4 @@
-//inserts into  a database
-
+//inserts into db
 db.school.insert({
-		name: "holberton school"
-})
+		"name": "Holberton school"
+		})
