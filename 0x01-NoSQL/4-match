@@ -1,2 +1,2 @@
 //finding an ob in collection school
-db.school.find(name="Holberton school")
+db.school.find({name="Holberton school"})
