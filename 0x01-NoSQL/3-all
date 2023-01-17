@@ -1,2 +1,2 @@
 //showing list of collections in school
-db.getCollectionNames(school)
+db.getCollectionNames()
